@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VirajLashkari
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on JAVA
 - 📫 How to reach me virajlashkari2002@gmail.com
 - 😄 Pronouns: Viru
